@@ -6,7 +6,7 @@
  * and open the template in the editor.
  */
 
-echo 'SUPER data: ' . date("Y-m-d H:i:s") . ' KONIEC DATY';
+echo 'SUPER data: ' . date("Y-m-d H:i:s") . ' KONIEC DATYYYYYY';
 
 
 echo '<br />';
