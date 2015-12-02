@@ -6,4 +6,8 @@
  * and open the template in the editor.
  */
 
-echo 'super data: ' . date("Y-m-d H:i:s") . ' KONIEC DATY';
+echo 'TESTOWA data: ' . date("Y-m-d H:i:s") . ' KONIEC DATY';
+
+
+echo '<br />';
+echo 'KONIEC PLIKU';
