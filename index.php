@@ -6,4 +6,5 @@
  * and open the template in the editor.
  */
 
+echo 'SUPER data: ' . date("Y-m-d H:i:s") . ' KONIE DATY';
 echo 'TESTOWA data: ' . date("Y-m-d H:i:s") . ' KONIE DATY';
