@@ -12,3 +12,4 @@ echo 'SUPER data: ' . date("Y-m-d H:i:s") . ' KONIEC DATY';
 echo 'TEST TEST nowa zmiana';
 echo 'nowa linijka';
 echo 'super nowa linijka';
+echo 'super test';
