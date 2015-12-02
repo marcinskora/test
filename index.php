@@ -6,4 +6,4 @@
  * and open the template in the editor.
  */
 
-echo date("Y-m-d H:i:s");
+echo 'Super Data: '.date("Y-m-d H:i:s");
