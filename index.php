@@ -9,4 +9,4 @@
 echo 'SUPER data: ' . date("Y-m-d H:i:s") . ' KONIEC DATY';
 
 
-echo 'test TEST 123456';
+echo 'test TEST';
