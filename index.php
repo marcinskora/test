@@ -13,4 +13,4 @@ echo 'TEST TEST nowa zmiana';
 echo 'nowa linijka';
 echo 'super nowa linijka';
 echo 'super test 4567890123456';
-echo 'test konfliktu333';
+echo 'test konfliktu555';
