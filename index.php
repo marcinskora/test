@@ -15,3 +15,4 @@ echo 'super nowa linijka';
 echo 'super test 4567890123456';
 echo 'test konfliktu555666777888';
 echo 'brach test';
+echo 'nowa linia';
