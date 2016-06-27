@@ -19,3 +19,4 @@ echo 'nowa linia';
 echo 'kolejna linia';
 echo 'druga kolejna linia';
 echo 'nowy-test - nowa gałąź';
+echo 'linia konfliktowa 2';
