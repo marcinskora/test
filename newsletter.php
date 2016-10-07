@@ -7,3 +7,4 @@
  */
 
 echo 'newsletter';
+echo 'redis';
