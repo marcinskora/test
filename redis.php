@@ -6,3 +6,4 @@
 //zmiany do merge nr 3
 //zmiany do merge nr 4
 //zmiany do merge nr 5
+//zmiany do merge nr 6

@@ -8,3 +8,4 @@
 
 echo 'newsletter';
 echo 'redis';
+echo 'nowa zmiana';
