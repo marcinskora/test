@@ -9,3 +9,4 @@
 echo 'newsletter';
 echo 'redis';
 echo 'nowa zmiana';
+echo 'nowa zmiana tra lala';
